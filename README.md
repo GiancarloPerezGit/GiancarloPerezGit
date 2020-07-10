@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello!
+
+My name is Giancarlo Perez. I am a Senior in Florida International University with an expected graduation date of March 2021 with a Bachelor of science
+degree in Computer science. Most of my work as a developer involves industrial automation and game development with Python and C# as my go to languages.
+
+#### Contact Info
+- Phone number: 786-469-9298
+- Email: gpere220@fiu.edu
+- [Linkedin](https://www.linkedin.com/in/giancarlo-perez-482217117/)
 
 <!--
 **GiancarloPerezGit/GiancarloPerezGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
