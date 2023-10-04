@@ -6,7 +6,7 @@ developer career.
 
 #### Contact Info
 - Phone number: 786-469-9298
-- Email: gpere220@fiu.edu
+- Email: giancarloperezbusiness@gmail.com
 - [Linkedin](https://www.linkedin.com/in/giancarlo-perez-482217117/)
 
 <!--
