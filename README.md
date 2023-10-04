@@ -1,7 +1,8 @@
 ### Hello!
 
-My name is Giancarlo Perez. I am a Senior in Florida International University with an expected graduation date of March 2021 with a Bachelor of science
-degree in Computer science. Most of my work as a developer involves industrial automation and game development with Python and C# as my go to languages.
+My name is Giancarlo Perez. I am a Graduate from Florida International University with a Bachelor of science
+degree in Computer Science. As a developer I work with a number of languages including Java, Python, C#, Javascript, HTML, Ruby, and other languages I have picked up thoughtout
+developer career.
 
 #### Contact Info
 - Phone number: 786-469-9298
